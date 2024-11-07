@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nešto o meni</title>
+</head>
+<body style="background-color: yellow;">
+    
+<center><h1><font color="blue" size="7">Nešto o meni</font></h1></center>
+
+<br>
+<br>
+
+<center><img src="Slike/1000223342.jpg" alt="Profilna" width="300"></center>
+<br>
+<br>
+
+<p><font color="black">Zdravo! Ja sam Ahmed Čengić, učenik sam drugog razreda IT gimnazije u Ilijašu. Živim u Brezi, gdje sam završio i osnovnu školu.<br>
+Najdraži školski predmeti su matematika i programiranje. Tokom osnovne škole, učestvovao sam na brojnim takmičenjima.<br>
+Imao sam puno uspjeha na takmičenjima, a meni najdraži uspjeh je bilo treće mjesto na kantonalnom i federalnom takmičenju iz matematike i učešće na JMO Bosne i Hercegovine.<br>
+<a href="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fgimbreza%2Fposts%2Fpfbid0371BLjGFJhN5xDC3jhiTGa3MzQnihTuas4P7M1wzDvo5tgEL7pHnSZvHrp1UMiaTel&show_text=true&width=500" target="_blank"><font color="red">Link sa takmičenja</font></a></font></p>
+
+<div style="display: flex; justify-content: space-between; text-align: left;">
+    <div style="flex: 1; margin-right: 20px;">
+        <h3><font size="5">Omiljeni sportovi</font></h3>
+        <p style="font-size: 16px;">Plivanje<br>
+           Formula 1<br>
+           Stoni tenis</p>
+    </div>
+    <div style="flex: 1; margin-right: 20px;">
+        <h2>Moja top tri jela</h2>
+        <p>1. Ćevapi ("ZMAJ")<br>
+           2. Ćevapi ("ŽELJO")<br>
+           3. Pizza Rahima ("VAGABUNDO")</p>
+    </div>
+    <div style="flex: 1;">
+        <h3><font size="5">Moj hobi</font></h3>
+        <p style="font-size: 16px;">
+            Plivanje<br>
+            Čitanje<br>
+            Planinarenje<br>
+        </p>
+    </div>
+</div>
+
+<p><font color="black">U slobodno vrijeme, rekreativno se bavim plivanjem, što mi pomaže da osatnem aktivan i opušten.<br>
+<a href="https://www.rtvvogosca.ba/wp-content/uploads/2023/06/BAZEN-2.jpg" target="_blank"><font color="green">Pogledaj sliku mene.</font></a></font></p>
+<br>
+<br>
+<video controls width="320" align="left">
+    <source src="Slike/videopilvanja.mp4" type="video/mp4">
+    Video
+</video>
+
+<p><font color="black">U budućnosti bih volio da se bavim poslovima koji imaju veze sa matematikom i programiranjem,jer uživam u izazovima i učenju novih stvari u svijetu programiranja i tehnologije.</font></p>
+
+</body>
+</html>
